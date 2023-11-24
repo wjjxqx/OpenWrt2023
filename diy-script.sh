@@ -29,6 +29,14 @@ git clone --depth=1 https://github.com/Jason6111/luci-app-netdata package/luci-a
 svn export https://github.com/Lienol/openwrt-package/trunk/luci-app-filebrowser package/luci-app-filebrowser
 svn export https://github.com/Lienol/openwrt-package/trunk/luci-app-ssr-mudb-server package/luci-app-ssr-mudb-server
 svn export https://github.com/immortalwrt/luci/branches/openwrt-18.06/applications/luci-app-eqos package/luci-app-eqos
+svn other luci-app-phtunnel kiddin9/openwrt-packages/trunk
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-phtunnel package/luci-app-phtunnel
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-fileassistant package/luci-app-fileassistant
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-control-weburl package/luci-app-control-weburl
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-timecontro package/luci-app-timecontro
+svn export https://github.com/kiddin9/openwrt-packages/trunk/ngrokc package/ngrokc
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ngrokc package/luci-app-ngrokc
+svn export https://github.com/kiddin9/openwrt-packages/trunk/phtunnel package/phtunnel
 # svn export https://github.com/syb999/openwrt-19.07.1/trunk/package/network/services/msd_lite package/msd_lite
 
 # 科学上网插件
