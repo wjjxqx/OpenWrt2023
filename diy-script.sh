@@ -37,6 +37,8 @@ svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-timecontro
 svn export https://github.com/kiddin9/openwrt-packages/trunk/ngrokc package/ngrokc
 svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-ngrokc package/luci-app-ngrokc
 svn export https://github.com/kiddin9/openwrt-packages/trunk/phtunnel package/phtunnel
+svn export https://github.com/kiddin9/openwrt-packages/trunk/luci-app-webd package/luci-app-webd
+svn export https://github.com/kiddin9/openwrt-packages/trunk/webd package/webd
 # svn export https://github.com/syb999/openwrt-19.07.1/trunk/package/network/services/msd_lite package/msd_lite
 
 # 科学上网插件
